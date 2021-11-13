@@ -1,0 +1,10 @@
+C:\Users\User\source\repos\Wav2Env\bin\Release\Wav2Env.exe.config
+C:\Users\User\source\repos\Wav2Env\bin\Release\Wav2Env.exe
+C:\Users\User\source\repos\Wav2Env\bin\Release\Wav2Env.pdb
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.Form1.resources
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.Properties.Resources.resources
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.csproj.GenerateResource.cache
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.exe
+C:\Users\User\source\repos\Wav2Env\obj\Release\Wav2Env.pdb
