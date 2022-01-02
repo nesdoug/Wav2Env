@@ -26,7 +26,7 @@ Change the Normalize Volume
 It only outputs max 64 envelope values.
 That is 1.067 seconds, NTSC
 That is 1.28 seconds, PAL
-If you need more than than, you will have
+If you need more than that, you will have
 to split the WAV into 1 second chunks and
 process each one separately.
 
